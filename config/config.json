@@ -2,8 +2,8 @@
   "development": {
     "username": "root",
     "password": "delete1234#",
-    "database": "database_development",
-    "host": "",
+    "database": "test_db",
+    "host": "test-db.cvm46mi4mlt9.us-east-1.rds.amazonaws.com",
     "dialect": "mysql"
   },
   "test": {
